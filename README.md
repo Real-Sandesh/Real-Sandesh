@@ -1,195 +1,143 @@
-<h1 align="center">Hi 👋, I'm Sandesh Acharya</h1>
+<h1 align="center">Hey, I'm Sandesh 👋</h1>
 
 <h3 align="center">
-  Web Developer • BCA Student • Creative Problem Solver
+  Web Developer • BCA Student • Builder
 </h3>
 
 <p align="center">
   <a href="https://www.sandeshrajacharya.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/sandesh001">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Real-Sandesh">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Real-Sandesh&label=Profile%20Views&color=000000&style=flat-square" alt="Profile Views"/>
+  <i>Turning curiosity into code and ideas into things that actually work.</i>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Sandesh Acharya**, a BCA student and aspiring web developer from Nepal who enjoys turning ideas into practical, modern, and visually appealing digital experiences.
+I'm **Sandesh Acharya**, a BCA student and aspiring web developer from Nepal.
 
-I'm currently focused on improving my skills in **JavaScript, React, Next.js, backend development, UI design, and modern web technologies**.
+I enjoy creating **modern, responsive and visually appealing websites** while continuously learning how things work behind the interface.
 
-I enjoy learning by building real projects, experimenting with new technologies, and solving problems through code.
+My approach is simple:
 
-> 🚀 *Turning curiosity into code and ideas into things that actually work.*
+> **Learn → Build → Break → Fix → Improve → Repeat.**
+
+I'm especially interested in **modern web development, UI design, JavaScript ecosystems and backend technologies**.
 
 ---
 
-## 🔭 What I'm Currently Doing
+## 🚀 Currently
 
 * 🛒 Building an **E-Commerce Website**
 * 🌱 Learning **React, Next.js & modern JavaScript**
 * ⚙️ Exploring **backend development**
-* 🎨 Improving my **UI/UX and web design** skills
-* 💡 Building projects to strengthen my development skills
-* 🤝 Open to collaborating on interesting and creative projects
+* 🎨 Improving my **UI/UX design skills**
+* 🧠 Strengthening my problem-solving and programming fundamentals
+* 🤝 Open to interesting projects and collaborations
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css" alt="Languages"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3"/>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,bootstrap" alt="Frameworks"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="42" height="42" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" alt="Tailwind CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="42" height="42" alt="Bootstrap"/>
 </p>
 
-### 🗄️ Database & Tools
+### Database & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma,photoshop" alt="Tools"/>
-</p>
-
-### 📚 Other Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=oracle,matlab" alt="Other Technologies"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" alt="Figma"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Real-Sandesh&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Real-Sandesh&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Real-Sandesh&bg_color=ffffff00&color=808080&line=000000&point=000000&area=true&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Real-Sandesh&hide_border=true&theme=transparent" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Real-Sandesh&bg_color=ffffff00&color=808080&line=000000&point=000000&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Real-Sandesh&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 E-Commerce Website
-
-A modern e-commerce website currently under development.
-
-**Focus:**
-`JavaScript` • `React` • `UI/UX` • `Backend`
-
----
-
-### 🎓 Student Management System
-
-A student management system designed to manage student, teacher, and staff information with a structured interface.
-
-**Focus:**
-`HTML` • `CSS` • `JavaScript` • `Database`
-
----
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my projects, skills, experience, and development journey.
-
-🌎 **Live:** [sandeshrajacharya.com.np](https://www.sandeshrajacharya.com.np/)
-
----
-
-## 📌 What I Want to Build
+## 🎯 What I'm Working Toward
 
 ```text
-Modern Websites
-       ↓
-Better User Experience
-       ↓
-Useful Digital Products
-       ↓
-Real-World Solutions
+             CURIOUS
+                │
+                ▼
+            LEARNING
+                │
+                ▼
+             BUILDING
+                │
+                ▼
+             CREATING
+                │
+                ▼
+             IMPROVING
+                │
+                └──────────────► 🚀
 ```
 
-I want to continue growing as a developer by building projects that are not only functional but also **clean, responsive, accessible, and enjoyable to use**.
+My goal is to become a developer who can take an idea from **concept → design → code → deployment**.
 
 ---
 
-## 🤝 Let's Collaborate
+## 💡 Things I Enjoy
 
-I'm open to collaborating on:
-
-* 🌐 Web development projects
-* ⚛️ React / Next.js projects
-* 🎨 UI-focused projects
-* 💡 Creative ideas
-* 🚀 Student & open-source projects
-
-If you're working on something interesting, feel free to reach out.
+* Building websites from scratch
+* Designing clean interfaces
+* Learning new technologies
+* Turning ideas into working projects
+* Experimenting with code
+* Solving problems through programming
+* Exploring modern web development
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Find Me
 
 <p align="center">
-  <a href="https://www.sandeshrajacharya.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/sandesh001">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Real-Sandesh">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <a href="https://www.sandeshrajacharya.com.np/">🌐 Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/sandesh001">💼 LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Real-Sandesh">🐙 GitHub</a>
 </p>
 
----
-
-## ⚡ Fun Fact
-
-> I enjoy building things just to see if I can make them work. ⚡
-
----
-
-<h3 align="center">
-  Thanks for visiting my profile! 🚀
-</h3>
+<br>
 
 <p align="center">
-  <i>Keep learning. Keep building. Keep creating.</i>
+  <i>Code. Create. Learn. Repeat. 🚀</i>
 </p>
