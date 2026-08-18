@@ -4,16 +4,6 @@
   Web Developer • BCA Student • Builder
 </h3>
 
-<p align="center">
-  <a href="https://www.sandeshrajacharya.com.np/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://linkedin.com/in/sandesh001">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<br>
 
 <p align="center">
   <i>Turning curiosity into code and ideas into things that actually work.</i>
