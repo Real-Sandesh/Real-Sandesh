@@ -97,7 +97,8 @@ I'm especially interested in **modern web development, UI design, JavaScript eco
                 ▼
              IMPROVING
                 │
-                └──────────────► 🚀
+                ▼
+                🚀
 ```
 
 My goal is to become a developer who can take an idea from **concept → design → code → deployment**.
